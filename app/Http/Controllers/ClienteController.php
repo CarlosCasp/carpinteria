@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Cliente;
 use Illuminate\Http\Request;
 
+
 class ClienteController extends Controller
 {
     /**
@@ -12,9 +13,10 @@ class ClienteController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index( )
     {
         //
+        return view('clientes.index');
     }
 
     /**
@@ -25,6 +27,7 @@ class ClienteController extends Controller
     public function create()
     {
         //
+        return view('clientes.clientesCreate');
     }
 
     /**
@@ -36,6 +39,10 @@ class ClienteController extends Controller
     public function store(Request $request)
     {
         //
+        $clientes = request()->except('_token');  
+        Cliente::insert($clientes);
+        return redirect('clientes');
+
     }
 
     /**

@@ -1,132 +1,353 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Services, Need Help Right Away?">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Carpintería</title>
+    <link rel="stylesheet" href="{!! asset('css/nicepage.css') !!}" media="screen">
+<link rel="stylesheet" href="{!! asset('css/House-Repair-Services-1.css') !!}" media="screen">
+    <script class="u-script" type="text/javascript" src="{!! asset('js/jquery-1.9.1.min.js') !!}" defer=""></script>
+    <script class="u-script" type="text/javascript" src="{!! asset('js/nicepage.js') !!}" defer=""></script>
+    <meta name="generator" content="Nicepage 3.10.4, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Archivo+Black:400">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html",
+		"logo": "images/default-logo.png"
+}</script>
+    <meta property="og:title" content="House Repair Services 1">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#104e92">
+    <link rel="canonical" href="index.html">
+    <meta property="og:url" content="index.html">
+  </head>
 
-        <title>Laravel</title>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+  <body data-home-page="https://website303650.nicepage.io/House-Repair-Services-1.html?version=44e14f81-1fe2-4e50-b81b-c7970ca063ac" data-home-page-title="House Repair Services 1" class="u-body"><header class="u-clearfix u-header u-header" id="sec-e2e7"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+    <style> 
+      .CentrarMenu{
+        margin-left: 40%; 
+        margin-top:  4%;
+  
+      }
+      .anchoMenu{
+        height: 10px;
+      }
+      #lista1 li {
+        display:inline;
+        padding-left:3px;
+        padding-right:3px;      
+}
+    </style>
 
-        <!-- Styles -->
-        <style>
-            /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-t{border-top-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@media (min-width:640px){.sm\:rounded-lg{border-radius:.5rem}.sm\:block{display:block}.sm\:items-center{align-items:center}.sm\:justify-start{justify-content:flex-start}.sm\:justify-between{justify-content:space-between}.sm\:h-20{height:5rem}.sm\:ml-0{margin-left:0}.sm\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\:pt-0{padding-top:0}.sm\:text-left{text-align:left}.sm\:text-right{text-align:right}}@media (min-width:768px){.md\:border-t-0{border-top-width:0}.md\:border-l{border-left-width:1px}.md\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}
-        </style>
+    <div class="anchoMenu">
+    <div class="CentrarMenu">
 
-        <style>
-            body {
-                font-family: 'Nunito', sans-serif;
-            }
-        </style>
-    </head>
-    <body class="antialiased">
-        <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-            @if (Route::has('login'))
-                <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
-                    @auth
-                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 underline">Home</a>
-                    @else
-                        <a href="{{ route('login') }}" class="text-sm text-gray-700 underline">Log in</a>
-
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 underline">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
-
-            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                    <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
-                        <g clip-path="url(#clip0)" fill="#EF3B2D">
-                            <path d="M248.032 44.676h-16.466v100.23h47.394v-14.748h-30.928V44.676zM337.091 87.202c-2.101-3.341-5.083-5.965-8.949-7.875-3.865-1.909-7.756-2.864-11.669-2.864-5.062 0-9.69.931-13.89 2.792-4.201 1.861-7.804 4.417-10.811 7.661-3.007 3.246-5.347 6.993-7.016 11.239-1.672 4.249-2.506 8.713-2.506 13.389 0 4.774.834 9.26 2.506 13.459 1.669 4.202 4.009 7.925 7.016 11.169 3.007 3.246 6.609 5.799 10.811 7.66 4.199 1.861 8.828 2.792 13.89 2.792 3.913 0 7.804-.955 11.669-2.863 3.866-1.908 6.849-4.533 8.949-7.875v9.021h15.607V78.182h-15.607v9.02zm-1.431 32.503c-.955 2.578-2.291 4.821-4.009 6.73-1.719 1.91-3.795 3.437-6.229 4.582-2.435 1.146-5.133 1.718-8.091 1.718-2.96 0-5.633-.572-8.019-1.718-2.387-1.146-4.438-2.672-6.156-4.582-1.719-1.909-3.032-4.152-3.938-6.73-.909-2.577-1.36-5.298-1.36-8.161 0-2.864.451-5.585 1.36-8.162.905-2.577 2.219-4.819 3.938-6.729 1.718-1.908 3.77-3.437 6.156-4.582 2.386-1.146 5.059-1.718 8.019-1.718 2.958 0 5.656.572 8.091 1.718 2.434 1.146 4.51 2.674 6.229 4.582 1.718 1.91 3.054 4.152 4.009 6.729.953 2.577 1.432 5.298 1.432 8.162-.001 2.863-.479 5.584-1.432 8.161zM463.954 87.202c-2.101-3.341-5.083-5.965-8.949-7.875-3.865-1.909-7.756-2.864-11.669-2.864-5.062 0-9.69.931-13.89 2.792-4.201 1.861-7.804 4.417-10.811 7.661-3.007 3.246-5.347 6.993-7.016 11.239-1.672 4.249-2.506 8.713-2.506 13.389 0 4.774.834 9.26 2.506 13.459 1.669 4.202 4.009 7.925 7.016 11.169 3.007 3.246 6.609 5.799 10.811 7.66 4.199 1.861 8.828 2.792 13.89 2.792 3.913 0 7.804-.955 11.669-2.863 3.866-1.908 6.849-4.533 8.949-7.875v9.021h15.607V78.182h-15.607v9.02zm-1.432 32.503c-.955 2.578-2.291 4.821-4.009 6.73-1.719 1.91-3.795 3.437-6.229 4.582-2.435 1.146-5.133 1.718-8.091 1.718-2.96 0-5.633-.572-8.019-1.718-2.387-1.146-4.438-2.672-6.156-4.582-1.719-1.909-3.032-4.152-3.938-6.73-.909-2.577-1.36-5.298-1.36-8.161 0-2.864.451-5.585 1.36-8.162.905-2.577 2.219-4.819 3.938-6.729 1.718-1.908 3.77-3.437 6.156-4.582 2.386-1.146 5.059-1.718 8.019-1.718 2.958 0 5.656.572 8.091 1.718 2.434 1.146 4.51 2.674 6.229 4.582 1.718 1.91 3.054 4.152 4.009 6.729.953 2.577 1.432 5.298 1.432 8.162 0 2.863-.479 5.584-1.432 8.161zM650.772 44.676h-15.606v100.23h15.606V44.676zM365.013 144.906h15.607V93.538h26.776V78.182h-42.383v66.724zM542.133 78.182l-19.616 51.096-19.616-51.096h-15.808l25.617 66.724h19.614l25.617-66.724h-15.808zM591.98 76.466c-19.112 0-34.239 15.706-34.239 35.079 0 21.416 14.641 35.079 36.239 35.079 12.088 0 19.806-4.622 29.234-14.688l-10.544-8.158c-.006.008-7.958 10.449-19.832 10.449-13.802 0-19.612-11.127-19.612-16.884h51.777c2.72-22.043-11.772-40.877-33.023-40.877zm-18.713 29.28c.12-1.284 1.917-16.884 18.589-16.884 16.671 0 18.697 15.598 18.813 16.884h-37.402zM184.068 43.892c-.024-.088-.073-.165-.104-.25-.058-.157-.108-.316-.191-.46-.056-.097-.137-.176-.203-.265-.087-.117-.161-.242-.265-.345-.085-.086-.194-.148-.29-.223-.109-.085-.206-.182-.327-.252l-.002-.001-.002-.002-35.648-20.524a2.971 2.971 0 00-2.964 0l-35.647 20.522-.002.002-.002.001c-.121.07-.219.167-.327.252-.096.075-.205.138-.29.223-.103.103-.178.228-.265.345-.066.089-.147.169-.203.265-.083.144-.133.304-.191.46-.031.085-.08.162-.104.25-.067.249-.103.51-.103.776v38.979l-29.706 17.103V24.493a3 3 0 00-.103-.776c-.024-.088-.073-.165-.104-.25-.058-.157-.108-.316-.191-.46-.056-.097-.137-.176-.203-.265-.087-.117-.161-.242-.265-.345-.085-.086-.194-.148-.29-.223-.109-.085-.206-.182-.327-.252l-.002-.001-.002-.002L40.098 1.396a2.971 2.971 0 00-2.964 0L1.487 21.919l-.002.002-.002.001c-.121.07-.219.167-.327.252-.096.075-.205.138-.29.223-.103.103-.178.228-.265.345-.066.089-.147.169-.203.265-.083.144-.133.304-.191.46-.031.085-.08.162-.104.25-.067.249-.103.51-.103.776v122.09c0 1.063.568 2.044 1.489 2.575l71.293 41.045c.156.089.324.143.49.202.078.028.15.074.23.095a2.98 2.98 0 001.524 0c.069-.018.132-.059.2-.083.176-.061.354-.119.519-.214l71.293-41.045a2.971 2.971 0 001.489-2.575v-38.979l34.158-19.666a2.971 2.971 0 001.489-2.575V44.666a3.075 3.075 0 00-.106-.774zM74.255 143.167l-29.648-16.779 31.136-17.926.001-.001 34.164-19.669 29.674 17.084-21.772 12.428-43.555 24.863zm68.329-76.259v33.841l-12.475-7.182-17.231-9.92V49.806l12.475 7.182 17.231 9.92zm2.97-39.335l29.693 17.095-29.693 17.095-29.693-17.095 29.693-17.095zM54.06 114.089l-12.475 7.182V46.733l17.231-9.92 12.475-7.182v74.537l-17.231 9.921zM38.614 7.398l29.693 17.095-29.693 17.095L8.921 24.493 38.614 7.398zM5.938 29.632l12.475 7.182 17.231 9.92v79.676l.001.005-.001.006c0 .114.032.221.045.333.017.146.021.294.059.434l.002.007c.032.117.094.222.14.334.051.124.088.255.156.371a.036.036 0 00.004.009c.061.105.149.191.222.288.081.105.149.22.244.314l.008.01c.084.083.19.142.284.215.106.083.202.178.32.247l.013.005.011.008 34.139 19.321v34.175L5.939 144.867V29.632h-.001zm136.646 115.235l-65.352 37.625V148.31l48.399-27.628 16.953-9.677v33.862zm35.646-61.22l-29.706 17.102V66.908l17.231-9.92 12.475-7.182v33.841z"/>
-                        </g>
-                    </svg>
-                </div>
-
-                <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
-                    <div class="grid grid-cols-1 md:grid-cols-2">
-                        <div class="p-6">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laravel.com/docs" class="underline text-gray-900 dark:text-white">Documentation</a></div>
-                            </div>
-
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laracasts.com" class="underline text-gray-900 dark:text-white">Laracasts</a></div>
-                            </div>
-
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laravel-news.com/" class="underline text-gray-900 dark:text-white">Laravel News</a></div>
-                            </div>
-
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Vibrant Ecosystem</div>
-                            </div>
-
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel's robust library of first-party tools and libraries, such as <a href="https://forge.laravel.com" class="underline">Forge</a>, <a href="https://vapor.laravel.com" class="underline">Vapor</a>, <a href="https://nova.laravel.com" class="underline">Nova</a>, and <a href="https://envoyer.io" class="underline">Envoyer</a> help you take your projects to the next level. Pair them with powerful open source libraries like <a href="https://laravel.com/docs/billing" class="underline">Cashier</a>, <a href="https://laravel.com/docs/dusk" class="underline">Dusk</a>, <a href="https://laravel.com/docs/broadcasting" class="underline">Echo</a>, <a href="https://laravel.com/docs/horizon" class="underline">Horizon</a>, <a href="https://laravel.com/docs/sanctum" class="underline">Sanctum</a>, <a href="https://laravel.com/docs/telescope" class="underline">Telescope</a>, and more.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
-                    <div class="text-center text-sm text-gray-500 sm:text-left">
-                        <div class="flex items-center">
-                            <svg fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor" class="-mt-px w-5 h-5 text-gray-400">
-                                <path d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path>
-                            </svg>
-
-                            <a href="https://laravel.bigcartel.com" class="ml-1 underline">
-                                Shop
-                            </a>
-
-                            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="ml-4 -mt-px w-5 h-5 text-gray-400">
-                                <path d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                            </svg>
-
-                            <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Sponsor
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
-                    </div>
-                </div>
-            </div>
+      <div >
+        
+        <ul id="lista1">
+        <li>
+          <a href="catalogo.html">Catálogo</a> 
+        </li>
+        <li><a href="perfil.html">Perfíl</a></li>
+        <li><a href="#">Historial </a></li>
+        <li><a href="#">Carrito</a></li>
+        
+        </ul>
         </div>
-    </body>
+    
+  </div>  
+  </div>
+    <a href="#" class="u-image u-logo u-image-1">
+          <img src="images/Logo.jpg" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;" wfd-invisible="true">
+            <a class="u-button-style u-custom-active-border-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg><use xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container" wfd-invisible="true">
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-grey-90" href="Page-1.html" style="padding: 10px 0px;">House Repair Services</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse" wfd-invisible="true">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item">
+                  <a class="u-button-style u-nav-link" href="Page-1.html" style="padding: 10px 20px;">Contactenos</a><br>
+                  <a> Dirección</a><br><br>
+                  <a> Teléfono</a><br><br>
+                  <a> Facebook</a><br><br>  
+                  <a> Instagram</a>
+              
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70" wfd-invisible="true"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-align-center u-clearfix u-image u-section-1" id="carousel_ceea">
+      
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-col">
+              <div class="u-size-30">
+                <div class="u-layout-row">
+                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-right-cell u-size-60 u-layout-cell-1">
+                    <div class="u-container-layout u-container-layout-1">
+                      <h1 style="color: #fff000;">Carpintería Steven</h1>
+                      <h3 style="color: #fff000;">Servicios</h3>
+                      <div class="u-border-11 u-border-white u-expanded-width u-line u-line-horizontal u-line-1"></div>
+                    </div>
+                  </div>   
+                </div>
+              </div>
+              <div class="u-size-30">
+                <div class="u-layout-row">
+                  <div class="u-align-left u-container-style u-hidden-sm u-hidden-xs u-layout-cell u-left-cell u-size-20 u-layout-cell-2">
+                    <div class="u-container-layout u-valign-top u-container-layout-2"><span class="u-icon u-icon-circle u-spacing-10 u-text-body-alt-color u-icon-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve">
+                      <path style="fill:#FF2970;" d="M496,465.6c0,16.8-13.6,30.4-30.4,30.4h-208c-16.8,0-30.4-13.6-30.4-30.4v-208  c0-16.8,13.6-30.4,30.4-30.4h208c16.8,0,30.4,13.6,30.4,30.4V465.6z"/>
+                      <path style="fill:#D10257;" d="M465.6,227.2c16.8,0,30.4,13.6,30.4,30.4v208c0,16.8-13.6,30.4-30.4,30.4h-208  c-16.8,0-30.4-13.6-30.4-30.4"/>
+                      <path style="fill:#5349B7;" d="M382.4,352c0,16.8-13.6,30.4-30.4,30.4H144c-16.8,0-30.4-13.6-30.4-30.4V144  c0-16.8,13.6-30.4,30.4-30.4h208c16.8,0,30.4,13.6,30.4,30.4V352z"/>
+                      <g>
+                        <path style="fill:#3B38A5;" d="M171.2,113.6l-57.6,57.6V292h148c16.8,0,30.4-13.6,30.4-30.4v-148H171.2z"/>
+                        <path style="fill:#3B38A5;" d="M352,113.6c16.8,0,30.4,13.6,30.4,30.4v208c0,16.8-13.6,30.4-30.4,30.4H144   c-16.8,0-30.4-13.6-30.4-30.4"/>
+                      </g>
+                      <path style="fill:#D10257;" d="M274.4,227.2l-47.2,47.2v126.4h143.2c16.8,0,30.4-13.6,30.4-30.4V227.2H274.4z"/>
+                      <path style="fill:#37167F;" d="M257.6,227.2c-16.8,0-30.4,13.6-30.4,30.4v124.8H352c16.8,0,30.4-13.6,30.4-30.4V227.2H257.6z"/>
+                      <path style="fill:#2EB9FF;" d="M268.8,238.4c0,16.8-13.6,30.4-30.4,30.4h-208C13.6,268.8,0,255.2,0,238.4v-208C0,13.6,13.6,0,30.4,0  h208c16.8,0,30.4,13.6,30.4,30.4V238.4z"/>
+                      <path style="fill:#0097F4;" d="M238.4,0c16.8,0,30.4,13.6,30.4,30.4v208c0,16.8-13.6,30.4-30.4,30.4h-208  C13.6,268.8,0,255.2,0,238.4"/>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      </svg>
+                      <h5 class="u-text u-text-body-alt-color u-text-3">Pintar</h5>
+                    </div>
+                  </div>
+                  <div class="u-align-left u-container-style u-hidden-sm u-hidden-xs u-layout-cell u-size-20 u-layout-cell-3">
+                    <div class="u-container-layout u-valign-top u-container-layout-3"><span class="u-icon u-icon-circle u-spacing-10 u-text-body-alt-color u-icon-2"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                      <path style="fill:#9197A8;" d="M315.554,14.183c74.346,0,148.693,38.294,148.693,131.886c0,0-21.927-31.528-64.291-51.044  c-22.466-10.353-50.718-14.892-84.402-14.892V14.183z"/>
+                      <path style="fill:#C0BFD4;" d="M315.554,80.133v36.166c0,16.438-13.332,29.77-29.77,29.77h-5.673h-61h-5.659  c-16.452,0-29.784-13.332-29.784-29.77v-3.886V47.839v-3.872c0-16.452,13.332-29.784,29.784-29.784h102.102V80.133L315.554,80.133z"/>
+                      <path style="fill:#DBB67E;" d="M280.111,245.363v221.961c0,16.835-13.658,30.493-30.493,30.493  c-16.849,0-30.507-13.658-30.507-30.493V245.363H280.111z"/>
+                      <rect x="219.11" y="146.069" style="fill:#6E5B3F;" width="61" height="99.294"/>
+                      <rect x="128.113" y="47.839" style="fill:#9197A8;" width="55.554" height="64.574"/>
+                      <path style="fill:#C0BFD4;" d="M128.113,47.839v64.574v6.014c0,9.006-7.29,16.296-16.296,16.296H64.05  c-9.006,0-16.296-7.29-16.296-16.296V41.839c0-9.006,7.29-16.31,16.296-16.31h47.768c9.006,0,16.296,7.304,16.296,16.31V47.839  L128.113,47.839z"/>
+                      <path d="M426.384,33.754C397.857,11.987,358.496,0,315.554,0H213.452c-20.691,0-38.079,14.373-42.734,33.656h-29.568  c-3.587-12.847-15.363-22.31-29.332-22.31H64.05c-16.807,0-30.479,13.679-30.479,30.493v76.587  c0,16.807,13.674,30.479,30.479,30.479h47.768c13.973,0,25.752-9.464,29.334-22.31h29.563c3.994,16.566,17.392,29.503,34.213,32.82  v71.764H193.95c-7.833,0-14.183,6.35-14.183,14.183c0,7.833,6.35,14.183,14.183,14.183h10.978v207.778  c0,24.634,20.047,44.676,44.69,44.676c24.634,0,44.676-20.042,44.676-44.676v-88.997c0-7.833-6.35-14.183-14.183-14.183  s-14.183,6.35-14.183,14.183v88.997c0,8.993-7.317,16.31-16.31,16.31c-9.002,0-16.324-7.317-16.324-16.31V259.546h32.635v33.33  c0,7.833,6.35,14.183,14.183,14.183s14.183-6.35,14.183-14.183v-33.33h10.992c7.833,0,14.183-6.35,14.183-14.183  c0-7.833-6.35-14.183-14.183-14.183h-10.992v-71.762c20.176-3.975,35.443-21.795,35.443-43.119V94.624  c26.247,1.129,47.386,5.496,64.285,13.284c38.04,17.523,58.405,46.009,58.581,46.26c2.702,3.885,7.09,6.086,11.646,6.086  c1.413,0,2.842-0.211,4.242-0.65c5.914-1.855,9.939-7.335,9.939-13.533C478.429,98.571,460.433,59.732,426.384,33.754z   M169.485,98.23h-27.188V62.021h27.188V98.23z M113.931,118.427c0,1.166-0.947,2.113-2.113,2.113H64.05  c-1.166,0-2.113-0.947-2.113-2.113V41.839c0-1.173,0.947-2.127,2.113-2.127h47.768c1.166,0,2.113,0.955,2.113,2.127L113.931,118.427  L113.931,118.427z M233.293,231.18v-70.928h32.635v70.928H233.293z M301.371,116.299c0,8.595-6.992,15.587-15.587,15.587h-72.332  c-8.602,0-15.601-6.992-15.601-15.587v-3.886V47.839v-3.872c0-8.602,6.999-15.601,15.601-15.601h87.919v51.767V116.299z   M405.893,82.144c-20.554-9.473-45.569-14.713-76.155-15.922V28.863c49.195,3.478,97.88,25.542,114.409,76.86  C433.855,97.566,421.092,89.146,405.893,82.144z"/>
+                      <path d="M280.111,315.568c-7.833,0-14.183,6.35-14.183,14.183v4.609c0,7.833,6.35,14.183,14.183,14.183s14.183-6.35,14.183-14.183  v-4.609C294.294,321.918,287.944,315.568,280.111,315.568z"/>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      </svg>
+                      <h5 class="u-text u-text-body-alt-color u-text-4">Crear</h5>
+                    </div>
+                  </div>
+                  <div class="u-align-left u-container-style u-hidden-sm u-hidden-xs u-layout-cell u-right-cell u-size-20 u-layout-cell-4">
+                    <div class="u-container-layout u-valign-top u-container-layout-4"><span class="u-icon u-icon-circle u-spacing-10 u-text-body-alt-color u-icon-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 470 470" style="enable-background:new 0 0 470 470;" xml:space="preserve">
+                      <g>
+                        <path style="fill:#F2EBD9;" d="M15,342.428c17.988,0.225,35.38,0.601,51.796,1.124c4.14,0.131,7.39,3.594,7.258,7.734   c-0.129,4.059-3.46,7.262-7.492,7.262c-0.081,0-0.161-0.001-0.243-0.004c-16.264-0.517-33.494-0.891-51.32-1.115v27.502   c104.728,1.331,163.718,7.659,220.802,13.784c56.699,6.084,115.292,12.369,219.198,13.697v-27.499   c-99.659-1.276-154.159-7.071-211.768-13.199l-3.784-0.402c-41.235-4.387-83.874-8.922-143.23-11.619   c-4.138-0.188-7.34-3.695-7.152-7.833c0.188-4.138,3.688-7.344,7.833-7.152c59.81,2.717,102.679,7.277,144.136,11.687l3.784,0.402   c57.211,6.085,111.336,11.841,210.181,13.114V342.5h-19.762c-17.92,0-32.5-14.58-32.5-32.5s14.58-32.5,32.5-32.5H455v-15H15   V342.428z M324.058,292.5c1.556,0,2.999,0.472,4.196,1.281c0.599,0.404,1.136,0.893,1.594,1.449   c0.306,0.37,0.577,0.771,0.808,1.196c0.346,0.637,0.603,1.331,0.753,2.063c0.1,0.488,0.152,0.993,0.152,1.511   s-0.052,1.023-0.152,1.511c-0.15,0.732-0.407,1.426-0.753,2.063c-0.231,0.425-0.502,0.825-0.808,1.196   c-0.459,0.556-0.996,1.044-1.594,1.449c-1.197,0.809-2.64,1.281-4.192,1.281c-4.146,0-7.503-3.358-7.503-7.5   S319.916,292.5,324.058,292.5z M294.058,312.5c1.556,0,2.999,0.472,4.196,1.281c0.599,0.404,1.136,0.893,1.594,1.449   c0.306,0.37,0.577,0.771,0.808,1.196c0.346,0.637,0.603,1.331,0.753,2.063c0.1,0.488,0.152,0.993,0.152,1.511   s-0.052,1.023-0.152,1.511c-0.15,0.732-0.407,1.426-0.753,2.063c-0.231,0.425-0.502,0.825-0.808,1.196   c-0.459,0.556-0.996,1.044-1.594,1.449c-1.197,0.809-2.64,1.281-4.192,1.281c-4.146,0-7.503-3.358-7.503-7.5   S289.916,312.5,294.058,312.5z"/>
+                        <path style="fill:#F2EBD9;" d="M455,427.414c-104.726-1.331-163.716-7.659-220.798-13.784   c-56.7-6.084-115.294-12.369-219.202-13.697V455h440V427.414z"/>
+                        <path style="fill:#6DA8D6;" d="M30,47.5C30,38.014,38.014,30,47.5,30h237.942c9.486,0,17.5,8.014,17.5,17.5v160h15v-160   c0-17.92-14.58-32.5-32.5-32.5H47.5C29.58,15,15,29.58,15,47.5v160h15V47.5z"/>
+                        <path style="fill:#C1E8E6;" d="M287.942,200.063V172.5H45v27.573l4.154-3.09c2.657-1.977,6.296-1.977,8.953,0l11.653,8.668   l11.643-8.667c2.658-1.979,6.298-1.978,8.956,0l11.646,8.667l11.642-8.667c2.657-1.979,6.298-1.978,8.957,0l11.645,8.667   l11.644-8.667c2.657-1.979,6.299-1.979,8.956,0l11.643,8.667l11.642-8.667c2.657-1.979,6.298-1.978,8.957,0l11.644,8.667   l11.642-8.667c2.659-1.978,6.3-1.979,8.958,0l11.639,8.665l11.639-8.665c2.658-1.979,6.299-1.979,8.958,0l11.641,8.666   l11.639-8.666c2.659-1.979,6.301-1.979,8.958,0L287.942,200.063z"/>
+                        <path style="fill:#FF6E1D;" d="M362.942,172.5v35H437.5c9.649,0,17.5-7.851,17.5-17.5s-7.851-17.5-17.5-17.5H362.942z"/>
+                        <path style="fill:#082947;" d="M7.5,222.5h29.997c0.378-0.003,0.712-0.034,1.041-0.08c0.083-0.012,0.165-0.023,0.248-0.038   c0.341-0.059,0.676-0.136,1-0.24c0.04-0.013,0.079-0.03,0.119-0.044c0.319-0.108,0.627-0.238,0.924-0.386   c0.048-0.024,0.097-0.045,0.145-0.07c0.321-0.168,0.627-0.362,0.919-0.573c0.027-0.02,0.057-0.032,0.083-0.052l11.654-8.67   l11.654,8.67c2.658,1.977,6.297,1.977,8.955-0.001l11.642-8.667l11.646,8.667c2.658,1.978,6.298,1.978,8.956,0l11.642-8.667   l11.645,8.667c2.658,1.978,6.299,1.978,8.956,0l11.644-8.667l11.644,8.667c2.657,1.979,6.298,1.979,8.957,0l11.642-8.667   l11.644,8.667c2.658,1.978,6.298,1.978,8.957,0l11.641-8.666l11.64,8.666c2.658,1.979,6.3,1.98,8.958,0l11.639-8.666l11.641,8.666   c2.658,1.979,6.299,1.979,8.958,0l11.638-8.665l11.634,8.664c0.042,0.031,0.086,0.055,0.128,0.085   c0.118,0.084,0.238,0.164,0.361,0.241c0.09,0.057,0.18,0.113,0.272,0.165c0.119,0.068,0.24,0.131,0.363,0.193   c0.101,0.051,0.202,0.101,0.305,0.147c0.115,0.051,0.233,0.098,0.352,0.144c0.114,0.044,0.228,0.088,0.344,0.126   c0.111,0.037,0.223,0.069,0.336,0.1c0.127,0.035,0.254,0.07,0.382,0.098c0.106,0.024,0.214,0.043,0.322,0.062   c0.138,0.025,0.277,0.047,0.416,0.063c0.102,0.012,0.205,0.021,0.309,0.029c0.147,0.011,0.295,0.02,0.442,0.022   c0.05,0.001,0.099,0.008,0.149,0.008h30c4.142,0,7.5-3.358,7.5-7.5v-17.5h15V215c0,4.142,3.358,7.5,7.5,7.5H437.5   c17.92,0,32.5-14.58,32.5-32.5s-14.58-32.5-32.5-32.5h-82.058c-4.142,0-7.5,3.358-7.5,7.5v17.5h-15v-135   c0-26.191-21.309-47.5-47.5-47.5H47.5C21.309,0,0,21.309,0,47.5V215C0,219.142,3.358,222.5,7.5,222.5z M455,190   c0,9.649-7.851,17.5-17.5,17.5h-74.558v-35H437.5C447.149,172.5,455,180.351,455,190z M15,47.5C15,29.58,29.58,15,47.5,15h237.942   c17.92,0,32.5,14.58,32.5,32.5v160h-15v-160c0-9.486-8.014-17.5-17.5-17.5H47.5C38.014,30,30,38.014,30,47.5v160H15V47.5z    M274.85,196.984l-11.639,8.666l-11.641-8.666c-2.658-1.979-6.299-1.979-8.958,0l-11.639,8.665l-11.639-8.665   c-2.657-1.979-6.298-1.979-8.958,0l-11.642,8.667l-11.644-8.667c-2.658-1.978-6.299-1.978-8.957,0l-11.642,8.667l-11.643-8.667   c-2.657-1.979-6.299-1.979-8.956,0l-11.644,8.667l-11.645-8.667c-2.658-1.978-6.299-1.978-8.957,0l-11.642,8.667l-11.646-8.667   c-2.658-1.978-6.298-1.978-8.956,0l-11.643,8.667l-11.653-8.668c-2.657-1.977-6.296-1.977-8.953,0L45,200.073V172.5h242.942v27.563   l-4.134-3.079C281.151,195.006,277.509,195.005,274.85,196.984z M287.942,157.5H45v-110c0-1.285,1.215-2.5,2.5-2.5h237.942   c1.285,0,2.5,1.215,2.5,2.5V157.5z"/>
+                        <path style="fill:#082947;" d="M462.5,247.5H7.5c-4.142,0-7.5,3.358-7.5,7.5v207.5c0,4.142,3.358,7.5,7.5,7.5h455   c4.142,0,7.5-3.358,7.5-7.5V335c0-4.142-3.358-7.5-7.5-7.5h-27.262c-9.649,0-17.5-7.851-17.5-17.5s7.851-17.5,17.5-17.5H462.5   c4.142,0,7.5-3.358,7.5-7.5v-30C470,250.858,466.642,247.5,462.5,247.5z M455,277.5h-19.762c-17.92,0-32.5,14.58-32.5,32.5   s14.58,32.5,32.5,32.5H455v27.412c-98.845-1.273-152.97-7.028-210.181-13.114l-3.784-0.402   c-41.457-4.41-84.326-8.97-144.136-11.687c-4.144-0.192-7.645,3.014-7.833,7.152c-0.188,4.138,3.014,7.645,7.152,7.833   c59.356,2.696,101.995,7.232,143.23,11.619l3.784,0.402c57.609,6.128,112.108,11.923,211.768,13.199v27.499   c-103.906-1.328-162.499-7.613-219.198-13.697C178.718,392.59,119.728,386.262,15,384.931v-27.502   c17.826,0.224,35.056,0.598,51.32,1.115c0.082,0.003,0.162,0.004,0.243,0.004c4.032,0,7.363-3.203,7.492-7.262   c0.132-4.14-3.118-7.603-7.258-7.734c-16.417-0.522-33.808-0.899-51.796-1.124V262.5h440V277.5z M15,399.933   c103.908,1.328,162.502,7.613,219.202,13.697c57.082,6.125,116.072,12.453,220.798,13.784V455H15V399.933z"/>
+                        <path style="fill:#082947;" d="M294.058,327.5c1.556,0,2.999-0.472,4.196-1.281c0.599-0.404,1.136-0.893,1.594-1.449   c0.306-0.37,0.577-0.771,0.808-1.196c0.346-0.637,0.603-1.331,0.753-2.063c0.1-0.488,0.152-0.993,0.152-1.511   s-0.052-1.023-0.152-1.511c-0.15-0.732-0.407-1.426-0.753-2.063c-0.231-0.425-0.502-0.825-0.808-1.196   c-0.459-0.556-0.996-1.044-1.594-1.449c-1.197-0.809-2.64-1.281-4.192-1.281c-4.146,0-7.503,3.358-7.503,7.5   S289.916,327.5,294.058,327.5z"/>
+                        <path style="fill:#082947;" d="M324.058,307.5c1.556,0,2.999-0.472,4.196-1.281c0.599-0.404,1.136-0.893,1.594-1.449   c0.306-0.37,0.577-0.771,0.808-1.196c0.346-0.637,0.603-1.331,0.753-2.063c0.1-0.488,0.152-0.993,0.152-1.511   s-0.052-1.023-0.152-1.511c-0.15-0.732-0.407-1.426-0.753-2.063c-0.231-0.425-0.502-0.825-0.808-1.196   c-0.459-0.556-0.996-1.044-1.594-1.449c-1.197-0.809-2.64-1.281-4.192-1.281c-4.146,0-7.503,3.358-7.503,7.5   S319.916,307.5,324.058,307.5z"/>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      </svg>
+                      <h5 class="u-text u-text-body-alt-color u-text-5">Personalizar<br>
+                      </h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-5 u-section-2" id="carousel_4ff3">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h5 class="u-text u-text-grey-40 u-text-1">NUESTROS SERVICIOS</h5>
+        <h1 class="u-text u-text-2">COMO TE PODEMOS AYUDAR?</h1>
+        <p class="u-text u-text-3">Nos especializamos en la creación de productos de madera, pregunte sin compromiso!</p>
+        <a href="https://nicepage.com/" class="u-border-1 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-3 u-btn-1" target="_blank">Book now</a>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-3" id="carousel_1dd3">
+      <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs u-sheet-1">
+        <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-gutter-30 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-size-30 u-size-60-md">
+                <div class="u-layout-col">
+                  <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-40 u-image-1">
+                    <div class="u-container-layout"></div>
+                  </div>
+                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-2">
+                    <div class="u-container-layout u-valign-middle u-container-layout-2">
+                      <p class="u-text u-text-1">Contamos con un servicio de personalización de muebles para que escojas las medidas de tus productos </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-size-30 u-size-60-md">
+                <div class="u-layout-col">
+                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-3">
+                    <div class="u-container-layout u-valign-middle u-container-layout-3">
+                      <h2 class="u-text u-text-2">Contactenos </h2>
+                      <h3 class="u-text u-text-palette-2-base u-text-3"><b style="">(806) 765-3400 634</b>&nbsp;<br>
+                      </h3>
+                    </div>
+                  </div>
+                  <div class="u-align-left u-container-style u-image u-layout-cell u-right-cell u-size-40 u-image-2">
+                    <div class="u-container-layout"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-image u-section-4" id="carousel_3760">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-container-style u-image u-layout-cell u-left-cell u-size-27 u-size-xs-60 u-image-1" src="">
+                <div class="u-container-layout u-container-layout-1" src=""></div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-33 u-size-xs-60 u-layout-cell-2" src="">
+                <div class="u-container-layout u-container-layout-2">
+                  <h2 class="u-text u-text-palette-1-base u-text-1">La Mejor Calidad</h2>
+                  <div class="u-border-10 u-border-palette-2-base u-expanded-width u-line u-line-horizontal u-line-1"></div>
+                  <p class="u-text u-text-2">Tras 30 años de experiencia aseguramos ser la mejor opción para la creación de tus mubles</p>
+                  <a href="https://nicepage.com/" class="u-border-1 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-3 u-btn-1">Book now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+  
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-fdb7"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1"> Mas Sobre Nosotros.</p>
+        <p > 5468 Marianna Street	City	Lake Eastonview</p><br>
+        <p> (806) 765-3400 634	E-Mail	carloscastellanos0200@gmail.com</p>
+      </div></footer>
+  
+  </body>
+
 </html>
